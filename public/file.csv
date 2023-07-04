@@ -1,0 +1,20 @@
+label,range,quadrant,mass,link,description
+aws,5,Emerging Technology,very high,https://example.com,Description 1
+quantum,2,Emerging Trend,medium,https://example.com,Description 2
+cloud,1,Emerging Technology,low,https://example.com,Description 3
+blockchain,6,Emerging Trend,high,https://example.com,Description 4
+crypto,2,Emerging Technology,medium,https://example.com,Description 5
+meta,0,Emerging Trend,high,https://example.com,Description 6
+AR/VR,4,Emerging Technology,high,https://example.com,Description 7
+cyber,1,Emerging Trend,low,https://example.com,Description 8
+GPT,7,Emerging Technology,low,https://example.com,Description 9
+aws,3.527777778,Emerging Technology,very high,https://example.com,Description 10
+quantum,3.611111111,Emerging Trend,medium,https://example.com,Description 11
+cloud,3.694444444,Emerging Technology,low,https://example.com,Description 12
+blockchain,3.777777778,Emerging Trend,high,https://example.com,Description 13
+crypto,3.861111111,Emerging Technology,medium,https://example.com,Description 14
+meta,3.944444444,Emerging Trend,high,https://example.com,Description 15
+AR/VR,4.027777778,Emerging Technology,high,https://example.com,Description 16
+cyber,4.111111111,Emerging Trend,low,https://example.com,Description 17
+GPT,4.194444444,Emerging Technology,low,https://example.com,Description 18
+aws,4.277777778,Emerging Technology,very high,https://example.com,Description 19
